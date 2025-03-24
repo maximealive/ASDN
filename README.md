@@ -3,9 +3,9 @@
 Here are three experiences, each accompanied by a file outlining the objectives to achieve and the corresponding ".pkt" file.
 
 ## Overview
-###Experience 1
-###Experience 2
-###Experience 3
+### Experience 1
+### Experience 2
+### Experience 3
 
 Soluzioni per Possibili problemi
 - Chiuedere e riaprire Packet Tracer
