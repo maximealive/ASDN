@@ -7,7 +7,7 @@ Here are three experiences, each accompanied by a file outlining the objectives 
 ### Experience 2
 ### Experience 3
 
-Soluzioni per Possibili problemi
+### Common Issues and Observations
 - Chiuedere e riaprire Packet Tracer
 - Se il PROTOCOLLO è down -> eliminare link e ricrearlo
 - la fully specified static route non funziona con i router utilizzati o con la loro versione software
