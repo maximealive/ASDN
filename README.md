@@ -8,7 +8,6 @@ Here are three experiences, each accompanied by a file outlining the objectives 
 - Part 2 – SSH and Port Security
 - Part 3 - VLANs
 
-
 ### Experience 2 - VTP, STP and Inter-VLAN Routing
 - Part 1 - VTP
 - Part 2 - STP
@@ -16,10 +15,10 @@ Here are three experiences, each accompanied by a file outlining the objectives 
 ### Experience 3 - Static Routing and OSPF
 - Part 1 – Static Routing
 - Part 2 – OSPF
-### Software
+## Software
 Cisco Packet Tracer v. 8.2.1.0118
 
-### Common Issues and Observations
+## Common Issues and Observations
 - If unexpected problems occur --> Exiting and Relaunching Packet Tracer
 - If the protocol is down (e.g., between two directly connected routers) --> Delete the link and recreate it.
 - Fully specified static routes are not working with the routers used or their current software version --> Use either of these alternative static route types instead: Directly Connected Static Route or Next-Hop Static Route (also called recursive static route, for multi-access networks)
