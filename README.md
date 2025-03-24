@@ -2,6 +2,10 @@
 
 Here are three experiences, each accompanied by a file outlining the objectives to achieve and the corresponding ".pkt" file.
 
+
+## Software
+Cisco Packet Tracer v. 8.2.1.0118, Windows O.S.
+
 ## Experiences overview
 ### Experience 1 – Switching
 - Part 1 - Cabling and basic configurations
@@ -15,8 +19,6 @@ Here are three experiences, each accompanied by a file outlining the objectives 
 ### Experience 3 - Static Routing and OSPF
 - Part 1 – Static Routing
 - Part 2 – OSPF
-## Software
-Cisco Packet Tracer v. 8.2.1.0118
 
 ## Common Issues and Observations
 - If unexpected problems occur --> Exiting and Relaunching Packet Tracer
