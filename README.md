@@ -1,7 +1,7 @@
 # Advanced Software Defined Network Lab
 
 Here are three experiences, each accompanied by a file outlining the objectives to achieve and the corresponding ".pkt" file.
-In the .pdf files there are some clickable link in which is present the entire table.
+In the .pdf files there are some clickable link by which is possible to see the entire table.
 
 
 ## Software
