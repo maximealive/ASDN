@@ -28,3 +28,7 @@ Cisco Packet Tracer v. 8.2.1.0118, Windows O.S.
 - Keep in mind that Cisco Packet Tracer is a __simulator__, not a full emulator. As a result, you may encounter occasional unexpected behavior or limitations compared to real hardware. If a configuration doesn’t work as expected, verify the syntax and logic, and consult official Cisco documentation or forums for simulator-specific quirks.
 - VTP Transparent Mode Warning --> As highlighted in Experience 2 - ERRATA CORRIGE and within the project report, exercise caution when using VTP Transparent mode. Misconfiguration can lead to unintended VLAN propagation or database mismatches across switches. Always verify VLAN synchronization and ensure consistent domain names/passwords.
 - LAST TIP: For the best results, complete the experiences in sequential order.
+
+## Useful links
+- https://jodies.de/ipcalc
+- https://www.cisco.com/c/en/us/tech/index.html
